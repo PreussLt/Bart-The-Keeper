@@ -1,0 +1,10 @@
+{
+  "autoApprove": true,
+  "yoloMode": true,
+  "permissions": {
+    "allow": [
+      "command(*)",
+      "file(*)"
+    ]
+  }
+}
